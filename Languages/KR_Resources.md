@@ -1,0 +1,30 @@
+# Korean Language Resources
+
+
+
+## Curricula 
+* Sogang Korean Language series (Textbooks). Builds foundations on speaking (dialogue) and everyday Korean, before more formal grammar.
+* Intermediate College Korean (Web-based Textbook with audio) (PDF). http://www.language.berkeley.edu/korean/10/index.htm 
+Good for traditional, structured, and challenging material for intermediate learners. 
+* Cyber University of Korea (Video Lecture series) (CUK) http://korean.cuk.edu/en/courses 
+Great for more audio-visual learning, at a pace that helps beginners get comfortable with more complex sentence structures commonly used in daily conversation.
+
+## Supplementary Resources
+
+* How to study korean (Website) http://www.howtostudykorean.com/ 
+Thorough descriptions and explanations of grammar and vocabulary, catered to native English speakers.
+* HiNative (Mobile App/Website) https://hinative.com/
+Forum-like platform to ask/answer language questions. Many users from Korea and China, and responses usually come within minutes. Good for clarifying simple questions.
+
+
+## "Input" sources
+I.e. ways to practice listening, reading, writing.
+* Naver Webtoons (Mobile App) https://comic.naver.com
+Less-stressful reading practice, very easy way to increase vocabulary. Also good for learning slang! 
+* 시요일 (Mobile App) https://www.siyoil.com/
+App that sends Korean poems every day. 
+* 씀 (Mobile App) http://www.ssm10b.com/ 
+App that sends writing prompts every day with related excerpts from Korean literature. Users upload their writing to share too, so it gives great exposure to all sorts of voices and writing styles.
+* Radio talk shows, easily found on Youtube. I find these more effective than TV shows (no subs, more expressive speech, less talking over each other).
+* Follow artists, writers, celebrities, etc on instagram.
+* Follow businesses and pages on Facebook
