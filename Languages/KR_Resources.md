@@ -6,7 +6,7 @@
 * Sogang Korean Language series (Textbooks). Builds foundations on speaking (dialogue) and everyday Korean, before more formal grammar.
 * Intermediate College Korean (Web-based Textbook with audio) (PDF). http://www.language.berkeley.edu/korean/10/index.htm 
 Good for traditional, structured, and challenging material for intermediate learners. 
-* Cyber University of Korea (Video Lecture series) (CUK) http://korean.cuk.edu/en/courses 
+* Cyber University of Korea (Video Lecture series; also on Youtube) (CUK) http://korean.cuk.edu/en/courses 
 Great for more audio-visual learning, at a pace that helps beginners get comfortable with more complex sentence structures commonly used in daily conversation.
 
 ## Supplementary Resources
@@ -15,6 +15,8 @@ Great for more audio-visual learning, at a pace that helps beginners get comfort
 Thorough descriptions and explanations of grammar and vocabulary, catered to native English speakers.
 * HiNative (Mobile App/Website) https://hinative.com/
 Forum-like platform to ask/answer language questions. Many users from Korea and China, and responses usually come within minutes. Good for clarifying simple questions.
+* Pronunciation videos from Motivate Korean (Youtube Channel) https://www.youtube.com/channel/UCBpRNdkIp4LSUCgXOcp1NSQ 
+One of the better and more accurate explanations by a non-native speaker, for non-native speakers.
 
 
 ## "Input" sources
